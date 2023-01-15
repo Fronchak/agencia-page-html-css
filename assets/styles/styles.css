@@ -178,6 +178,7 @@ html {
     background-image: url("../imgs/rodape.jpg");
     background-position: center;
     background-size: cover;
+    padding-bottom: 5em;
 }
 
 .about-container {
@@ -293,4 +294,12 @@ footer {
     background-color: #FFF;
     color: #222;
     border-color: #222;
+}
+
+.copyright {
+    color: #222;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5em;
 }
